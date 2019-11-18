@@ -1,0 +1,42 @@
+.button{
+  display: inline-block;
+  height:50px;
+  width:50px;
+  font-size:25px;
+  color:gold;
+  margin: 2px;
+  font-weight: bold;
+  background-color: black;
+  border-radius: 3px;
+  border:none;
+}
+.textview{
+  width: 220px ;
+  height : 60px;
+  font-size: 40px ;
+  padding: 5;
+  margin-left: 5px;
+  margin-top: 5px;
+  color: Khaki;
+  background-color: Navy;
+  border:none;
+  border-radius: :3px;
+}
+#zero{
+  width:105px;
+}
+#equals{
+  height:107px;
+}
+.main{
+  position:absolute;
+  top: 50%;
+  left:50%;
+  transform: translateX(-50%)translateY(-50%);
+  background-color: Teal;
+  border-radius: 5px;
+  border:none;
+}
+h1{
+  padding:50px;
+}
